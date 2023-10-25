@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="textView3" type="id" />
+    <item name="textView" type="id" />
+    <item name="textView2" type="id" />
+    <item name="radioButton" type="id" />
+    <item name="radioButton2" type="id" />
+    <item name="textView4" type="id" />
+    <item name="birthdayTD" type="id" />
+    <item name="selectBD" type="id" />
+    <item name="textView5" type="id" />
+</resources>
